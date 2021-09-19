@@ -36,7 +36,14 @@
    ```sh
    python main.py
    ```
-p
+
+demo 1 star
+![](sample1.gif)
+
+demo 2 stars
+
+![](sample2.gif)
+
 _For more examples, please refer to the [Documentation](https://www.ursinaengine.org/)_
 
 
